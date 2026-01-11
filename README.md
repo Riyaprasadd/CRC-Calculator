@@ -5,7 +5,7 @@ The CRC Calculator is a tool designed to demonstrate the application of the Cycl
 
 
 
----
+------
 
 # 🚀 CRC Calculator Web App  
 
